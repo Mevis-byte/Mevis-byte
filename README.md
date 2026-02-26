@@ -53,5 +53,4 @@ Python • C • C++ • HTML • Git • Linux • PowerShell
 ### 🎯 Goal
 To become a security-focused software engineer capable of building and analyzing secure systems.
 
-### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Mevis-byte&show_icons=true&theme=default)
+
