@@ -1,3 +1,9 @@
+![header](https://capsule-render.vercel.app/api?type=waving\&color=0:0f0f0f,50:00f7ff,100\:ff00ff\&height=240\&section=header\&text=Mevis\&fontSize=58\&fontColor=ffffff\&animation=fadeIn\&fontAlignY=36\&desc=AI%20%7C%20Cybersecurity%20%7C%20Linux%20%7C%20Terminal%20Tools\&descAlignY=58\&descSize=18)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,linux,bash,git,cpp,c,html,vscode,arduino" />
+</p>
+
 # Hey, I'm Mevis
 
 ### AI • Cybersecurity • Linux • Terminal Tools
@@ -94,6 +100,15 @@ Python billing system project with:
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mevis-byte&show_icons=true&theme=radical&hide_border=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mevis-byte&theme=radical&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mevis-byte&theme=radical&hide_border=true&layout=compact" height="170" />
+</p>
+
 # 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Mevis-byte\&theme=radical\&hide_border=false\&include_all_commits=false\&count_private=false)
@@ -109,6 +124,12 @@ Python billing system project with:
 * Instagram: [https://instagram.com/mevis_11](https://instagram.com/mevis_11)_
 * GitHub: [https://github.com/Mevis-byte](https://github.com/Mevis-byte)
 * Email: [mevislobo2006@gmail.com](mailto:mevislobo2006@gmail.com)
+
+---
+
+# Goal
+
+Build useful software, learn how systems work internally, and get deeper into AI and cybersecurity over time.
 
 ---
 
