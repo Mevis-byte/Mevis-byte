@@ -41,7 +41,7 @@ A local AI assistant that runs completely inside the terminal using Ollama.
 * File analysis
 * CLI workflow
 
-![ask.ai Neural Shell](./screenshots/neural-shell-ui.png)
+![ask.ai Neural Shell](./screenshots/neural-shell.png)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mevis-byte\&repo=Ask-ai\&theme=radical)](https://github.com/Mevis-byte/Ask-ai)
 
