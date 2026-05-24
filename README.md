@@ -1,138 +1,226 @@
-![header](https://capsule-render.vercel.app/api?type=waving\&color=0:0f0f0f,50:00f7ff,100\:ff00ff\&height=240\&section=header\&text=Mevis\&fontSize=58\&fontColor=ffffff\&animation=fadeIn\&fontAlignY=36\&desc=AI%20%7C%20Cybersecurity%20%7C%20Linux%20%7C%20Terminal%20Tools\&descAlignY=58\&descSize=18)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,50:1E3A8A,100:2563EB&text=Mevis%20Lobo&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=AI%20Systems%20•%20Developer%20Tooling%20•%20Cybersecurity%20•%20Linux&descAlignY=58&animation=fadeIn" />
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux,bash,git,cpp,c,html,vscode,arduino" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2500&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Building+Local-First+AI+Developer+Tools;Exploring+Cybersecurity+%26+Linux+Internals;Terminal+Workflows+%7C+Automation+%7C+Infrastructure;Python+Developer+and+Systems+Enthusiast" />
 </p>
 
-# Hey, I'm Mevis
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,cpp,c,html,sqlite,vscode,arduino,powershell" />
+</p>
 
-### AI • Cybersecurity • Linux • Terminal Tools
+---
 
-Second semester student interested in AI systems, cybersecurity, Linux, and low-level software tools.
+# About Me
 
-Most of my projects are focused around terminal workflows, local AI, and experimenting with how systems work behind the scenes.
+```bash
+> whoami
+
+Mevis Lobo
+Second Semester Student
+AI Systems & Developer Tooling Enthusiast
+
+Focus Areas:
+- Local AI systems
+- Terminal-native workflows
+- Cybersecurity fundamentals
+- Linux and infrastructure
+- Automation and scripting
+- Workspace intelligence
+````
+
+I enjoy building systems that feel practical, fast, and deeply integrated with developer workflows.
+
+Most of my projects revolve around:
+
+* local-first AI
+* terminal applications
+* semantic search
+* developer tooling
+* automation
+* understanding how systems work internally
 
 ---
 
 # Currently Working On
 
-* ask.ai → local terminal AI assistant
-* learning more about local LLMs and Ollama
+<p align="center">
+  <img src="https://img.shields.io/badge/Local%20LLMs-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ollama-0F172A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG%20Systems-334155?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Linux-475569?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TryHackMe-DC2626?style=for-the-badge" />
+</p>
+
+* Building **ASK.AI** — a terminal-native AI developer workstation
+* Learning more about local LLM orchestration
+* Exploring semantic search and workspace intelligence
+* Linux scripting and networking fundamentals
 * TryHackMe labs and CTF challenges
-* Linux, networking, and scripting
-* AI tools for terminal workflows
+* Improving developer tooling workflows
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
-## ask.ai
+## ASK.AI
 
-A local AI assistant that runs completely inside the terminal using Ollama.
+> Local-first AI developer workstation powered by Ollama.
 
-### Current Features
+### Core Features
 
-* Fully offline AI
-* Streaming responses
-* Syntax-highlighted output
+* Fully offline AI workflows
 * Multi-model support
-* Local memory system
-* custom terminal UI
-* File analysis
-* CLI workflow
+* Semantic workspace search
+* Local memory and persistence
+* Streaming responses
+* Syntax-highlighted terminal rendering
+* Git integration
+* File and codebase analysis
+* Plugin architecture
+* Workspace-aware AI interactions
+* Workstation-style terminal UI
 
-![ask.ai Neural Shell](./screenshots/neural-shell.png)
+<p align="center">
+  <img src="./screenshots/neural-shell.png" width="100%" />
+</p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mevis-byte\&repo=Ask-ai\&theme=radical)](https://github.com/Mevis-byte/Ask-ai)
+<p align="center">
+  <a href="https://github.com/Mevis-byte/Ask-ai">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mevis-byte&repo=Ask-ai&theme=transparent&hide_border=true" />
+  </a>
+</p>
 
 ---
 
 ## Smart POS Billing System
 
-Python billing system project with:
+Python-based billing and analytics system featuring:
 
 * Tkinter GUI
-* GST calculation logic
+* GST calculations
 * CSV-based storage
 * Analytics dashboard
+* Modular architecture
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mevis-byte\&repo=smart-pos-billing-system\&theme=radical)](https://github.com/Mevis-byte/smart-pos-billing-system)
-
----
-
-# Cybersecurity
-
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge\&logo=tryhackme)](https://tryhackme.com)
-
-### Interested In
-
-* OSINT
-* Linux
-* Networking fundamentals
-* CTF challenges
-* Web security basics
-* Secure coding practices
+<p align="center">
+  <a href="https://github.com/Mevis-byte/smart-pos-billing-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mevis-byte&repo=smart-pos-billing-system&theme=transparent&hide_border=true" />
+  </a>
+</p>
 
 ---
 
-# 💻 Tech Stack
+# Cybersecurity & Learning
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge\&logo=powershell\&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge\&logo=windows-terminal\&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge\&logo=Arduino\&logoColor=white)
+<p align="center">
+  <a href="https://tryhackme.com">
+    <img src="https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme" />
+  </a>
+</p>
+
+### Areas of Interest
+
+```text
+OSINT
+Linux Internals
+Networking Fundamentals
+CTF Challenges
+Secure Coding
+Automation
+Infrastructure
+AI-Assisted Workflows
+```
 
 ---
 
-# Learning
+# Tech Stack
 
-* networking fundamentals
-* Linux internals
-* AI architecture
-* secure coding
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,linux,bash,git,github,html,sqlite,vscode,arduino,powershell" />
+</p>
+
+---
+
+# Development Environment
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Editor-VSCode-2563EB?style=for-the-badge&logo=visualstudiocode" />
+  <img src="https://img.shields.io/badge/Shell-Bash-0F172A?style=for-the-badge&logo=gnubash" />
+  <img src="https://img.shields.io/badge/Platform-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/AI-Ollama-334155?style=for-the-badge" />
+</p>
+
+---
+
+# GitHub Analytics
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mevis-byte&theme=algolia&no-frame=true&margin-w=8&margin-h=8&row=1" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mevis-byte&show_icons=true&theme=transparent&hide_border=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mevis-byte&theme=transparent&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mevis-byte&theme=transparent&hide_border=true&layout=compact" height="170" />
+</p>
+
+---
+
+# Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mevis-byte&theme=github-compact&hide_border=true" width="100%" />
+</p>
+
+---
+
+# Workspace
+
+```bash
+~/workspace
+├── ask-ai/
+├── local-llm-experiments/
+├── terminal-tools/
+├── networking-notes/
+└── cybersecurity-labs/
+```
+
+---
+
+# Connect
+
+<p align="center">
+  <a href="https://github.com/Mevis-byte">
+    <img src="https://img.shields.io/badge/GitHub-Mevis--byte-0F172A?style=for-the-badge&logo=github" />
+  </a>
+
+  <a href="https://instagram.com/mevis_11_">
+    <img src="https://img.shields.io/badge/Instagram-mevis__11__-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <a href="mailto:mevislobo2006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-2563EB?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+# Goal
+
+Build practical systems, improve developer workflows, understand software deeply, and explore the intersection of:
+
+* AI
+* security
+* infrastructure
 * terminal tooling
-* local AI systems
+* local-first systems
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mevis-byte&show_icons=true&theme=radical&hide_border=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mevis-byte&theme=radical&hide_border=true" height="170" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,100:2563EB" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mevis-byte&theme=radical&hide_border=true&layout=compact" height="170" />
-</p>
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Mevis-byte\&theme=radical\&hide_border=false\&include_all_commits=false\&count_private=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user=Mevis-byte\&theme=radical\&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mevis-byte\&theme=radical\&hide_border=false\&include_all_commits=false\&count_private=false\&layout=compact)
-
----
-
-# Contact
-
-* Instagram: [https://instagram.com/mevis_11](https://instagram.com/mevis_11)_
-* GitHub: [https://github.com/Mevis-byte](https://github.com/Mevis-byte)
-* Email: [mevislobo2006@gmail.com](mailto:mevislobo2006@gmail.com)
-
----
-
-# Goal
-
-Build useful software, learn how systems work internally, and get deeper into AI and cybersecurity over time.
-
----
-
-# Goal
-
-Build useful software, learn how systems work internally, and get deeper into AI and cybersecurity over time.
+```
