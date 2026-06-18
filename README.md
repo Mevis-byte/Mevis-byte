@@ -1,20 +1,10 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,50:1E3A8A,100:2563EB&text=Mevis%20Lobo&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=AI%20Systems%20%26%20Developer%20Tooling" />
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2500&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Building+Local-First+AI+Developer+Tools;Terminal-Native+AI+Workflows;Exploring+Local+LLMs" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=28&duration=3000&pause=500&color=2563EB&center=true&vCenter=true&width=800&lines=Mevis+Lobo;AI+Systems+%26+Developer+Tooling;Building+Local-First+AI+Developer+Tools;Terminal-Native+Workflows" />
 </p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,cpp,c,html,sqlite,vscode,arduino,powershell" />
 </p>
-
----
-
-# 🐍 Contribution Snake Game
-
-Watch the snake eat your contributions!
-
-![snake gif](https://github.com/Mevis-byte/Mevis-byte/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
