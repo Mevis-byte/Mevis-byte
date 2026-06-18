@@ -1,7 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,50:1E3A8A,100:2563EB&text=Mevis%20Lobo&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=AI%20Systems%20%26%20Developer%20Tooling&descAlignY=51&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,50:1E3A8A,100:2563EB&text=Mevis%20Lobo&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=AI%20Systems%20%26%20Developer%20Tooling" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2500&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Building+Local-First+AI+Developers;Terminal-Native+Workflows;Systems+That+Work+Fast;Understanding+The+Internals" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2500&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Building+Local-First+AI+Developer+Tools;Terminal-Native+AI+Workflows;Exploring+Local+LLMs" />
 </p>
 
 <p align="center">
