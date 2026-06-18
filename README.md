@@ -1,12 +1,20 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,50:1E3A8A,100:2563EB&text=Mevis%20Lobo&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=AI%20Systems%20•%20Developer%20Tooling%20•%20Cybersecurity%20•%20Linux&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,50:1E3A8A,100:2563EB&text=Mevis%20Lobo&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=AI%20Systems%20%26%20Developer%20Tooling&descAlignY=51&descAlign=50" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2500&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Building+Local-First+AI+Developer+Tools;Exploring+Cybersecurity+%26+Linux+Internals;Terminal+Workflows+%7C+Automation+%7C+Infrastructure;Python+Developer+and+Systems+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2500&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Building+Local-First+AI+Developers;Terminal-Native+Workflows;Systems+That+Work+Fast;Understanding+The+Internals" />
 </p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,cpp,c,html,sqlite,vscode,arduino,powershell" />
 </p>
+
+---
+
+# 🐍 Contribution Snake Game
+
+Watch the snake eat your contributions!
+
+![snake gif](https://github.com/Mevis-byte/Mevis-byte/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -26,7 +34,7 @@ Focus Areas:
 - Linux and infrastructure
 - Automation and scripting
 - Workspace intelligence
-````
+```
 
 I enjoy building systems that feel practical, fast, and deeply integrated with developer workflows.
 
@@ -223,4 +231,3 @@ Build practical systems, improve developer workflows, understand software deeply
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,100:2563EB" />
 </p>
-```
