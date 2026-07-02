@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Title -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=35&duration=4000&pause=800&color=2563EB&center=true&vCenter=true&width=900&lines=Mevis+Lobo;AI+Systems+Developer;Terminal+Native+Workflows;Building+Practical+Systems" alt="Title"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=35&duration=4000&pause=800&color=2563EB&center=true&vCenter=true&width=900&lines=Mevis+Lobo;AI+Systems+Developer;Full-Stack+Engineer;Security+Enthusiast" alt="Typing Animation"/>
 
 <!-- Decorative Line -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" height="1"/>
@@ -140,7 +140,7 @@ Local AI → No Internet → Maximum Privacy → Peak Performance
 <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,docker,sqlite,arduino,figma" alt="Tools"/>
 
 ### AI & ML
-<img src="https://img.shields.io/badge/Ollama-black?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=" alt="Ollama"/>
+<img src="https://img.shields.io/badge/Ollama-black?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTAgMnYyMG0tOC04aDIwbTAgNEg0bTAgLThIMm00IDEyaDRWOEg0em04IDBoNHYxMmgtNHptOCAwaDR2MTJoLTR6IiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+PC9zdmc+" alt="Ollama"/>
 <img src="https://img.shields.io/badge/LLaMA%203-2563EB?style=flat-square" alt="LLaMA"/>
 <img src="https://img.shields.io/badge/RAG%20Systems-334155?style=flat-square" alt="RAG"/>
 <img src="https://img.shields.io/badge/Semantic%20Search-0F172A?style=flat-square" alt="Semantic Search"/>
@@ -324,15 +324,15 @@ Contributing to open-source & community
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║  ✨ Building: Local AI Systems & Developer Tooling             ║
-║  🎓 Learning: Advanced ML Ops & Security Engineering           ║
-║  💡 Exploring: AI Agent Architectures & Infrastructure         ║
-║  🚀 Shipping: Production-ready Applications                    ║
-║  🌟 Status: Always Learning, Always Building                   ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════╗
+║                                                                ║
+║  ✨ Building: Local AI Systems & Developer Tooling            ║
+║  🎓 Learning: Advanced ML Ops & Security Engineering          ║
+║  💡 Exploring: AI Agent Architectures & Infrastructure        ║
+║  🚀 Shipping: Production-ready Applications                   ║
+║  🌟 Status: Always Learning, Always Building                  ║
+║                                                                ║
+╚════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -342,7 +342,7 @@ Contributing to open-source & community
 <div align="center">
 
 <!-- Footer Animation -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&color=0:0F172A,50:2563EB,100:1E293B&text=Happy%20Coding!%20🚀&fontSize=32&fontColor=ffffff&animation=fadeIn&descAlign=75&desc=Let's%20build%20something%20amazing%20together" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&color=0:0F172A,50:2563EB,100:1E293B&text=Happy%20Coding!%20🚀&fontSize=32&fontColor=ffffff&animation=fadeIn" width="100%" alt="Footer"/>
 
 <!-- Visitors Counter -->
 <img src="https://komarev.com/ghpvc/?username=Mevis-byte&color=2563EB&style=flat-square&label=Profile+Views" alt="Profile Views"/>
