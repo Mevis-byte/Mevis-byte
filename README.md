@@ -128,7 +128,7 @@ AI-powered platform connecting citizens and departments for grievance redressal.
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mevis-byte&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true" alt="Mevis's GitHub statistics" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mevis-byte&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Mevis's most used languages" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mevis-byte&theme=github-dark&hide_border=true&bg_color=0D1117&line=2563EB&point=38BDF8&area=true" width="100%" alt="Contribution graph" />
+<img src="https://streak-stats.demolab.com/?user=Mevis-byte&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
 
