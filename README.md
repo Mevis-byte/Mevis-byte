@@ -19,11 +19,9 @@
         <path d="M32 0H0V32" stroke="#94A3B8" stroke-opacity="0.08"/>
       </pattern>
     </defs>
-
-
 <div align="center">
 
-# Mevis Lobo
+  # Mevis Lobo
 
 **Founder-minded engineer building focused software for real-world problems.**
 
