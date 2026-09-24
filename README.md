@@ -1,64 +1,66 @@
 <div align="center">
 
-```bash
-$ whoami
-Mevis Lobo
-$ role
-AI Systems Developer / Full-Stack Engineer
-$ focus
-AI • Security • Linux • Developer Tooling
-$ status
-Always learning. Always building.
+```text
+╭──────────────────────────────────────────────────────────────╮
+│  MEVIS-BYTE // PRIVATE SYSTEM                               │
+├──────────────────────────────────────────────────────────────┤
+│  $ whoami                                                    │
+│  mevis lobo                                                  │
+│                                                              │
+│  $ mission                                                   │
+│  build intelligent systems that move from idea to impact     │
+│                                                              │
+│  $ stack                                                     │
+│  ai · security · linux · automation · product engineering   │
+│                                                              │
+│  $ status                                                    │
+│  shipping quietly                                            │
+╰──────────────────────────────────────────────────────────────╯
 ```
-
-</div>
-
----
-
-<div align="center">
 
 # Mevis Lobo
 
-**AI Systems Developer · Full-Stack Engineer · Security Enthusiast**
+**Founder-minded engineer building focused software for complex problems.**
 
-I build practical, privacy-focused software at the intersection of **AI, developer tooling, infrastructure, and security**.
-
-[![GitHub](https://img.shields.io/badge/GitHub-Mevis--byte-181717?style=flat-square&logo=github)](https://github.com/Mevis-byte)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mevis%20Lobo-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/mevis-lobo)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mevislobo2006@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-18181B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mevis-byte)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00D9FF)](https://linkedin.com/in/mevis-lobo)
+[![Email](https://img.shields.io/badge/CONTACT-0A0A0A?style=for-the-badge&logo=gmail&logoColor=FF3366)](mailto:mevislobo2006@gmail.com)
 
 </div>
 
+> I turn ambitious ideas into useful products — from local AI systems and developer tools to secure, real-world platforms.
+
 ---
 
-## What I build
+## `/manifesto`
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🤖 AI systems
+### 01 · Build
 
-- Local-first LLM applications
-- RAG and semantic search
-- AI agents and workflow automation
-- Private, offline developer experiences
+Ship practical systems that solve real problems.
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🛠️ Engineering
+### 02 · Protect
 
-- Terminal-native applications
-- Full-stack web products
-- Linux and infrastructure tooling
-- Secure, maintainable systems
+Prefer privacy, local-first architecture, and secure defaults.
+
+</td>
+<td width="33%" valign="top">
+
+### 03 · Simplify
+
+Make powerful technology feel calm and useful.
 
 </td>
 </tr>
 </table>
 
-## Selected work
+## `/products`
 
 <table>
 <tr>
@@ -66,26 +68,22 @@ I build practical, privacy-focused software at the intersection of **AI, develop
 
 ### [ASK.AI](https://github.com/Mevis-byte/Ask-ai)
 
-Offline-first AI assistant for the terminal, powered by Ollama and LLaMA.
+**A private AI workstation for the terminal.**
+
+Offline-first assistant powered by Ollama and LLaMA with workspace search, local memory, Git integration, and multi-model support.
 
 `Python` `Ollama` `RAG` `TUI`
-
-- Multi-model support
-- Workspace and semantic search
-- Local memory and Git integration
 
 </td>
 <td width="50%" valign="top">
 
 ### [Osprey](https://github.com/Mevis-byte/Osprey)
 
-Real-time 3D situational-awareness platform for air, maritime, satellite, and ground domains.
+**A real-time 3D situational-awareness platform.**
+
+Geospatial intelligence across air, maritime, satellite, and ground domains with rich visualization and live tracking.
 
 `TypeScript` `CesiumJS` `Geospatial`
-
-- 3D visualization
-- Flight and satellite tracking
-- Multi-domain data integration
 
 </td>
 </tr>
@@ -94,81 +92,69 @@ Real-time 3D situational-awareness platform for air, maritime, satellite, and gr
 
 ### [Smart POS Billing](https://github.com/Mevis-byte/smart-pos-billing-system)
 
-Modular billing and analytics system for practical business workflows.
+**Business software without unnecessary complexity.**
+
+A modular billing and analytics system with GST calculations, reporting, and a practical desktop interface.
 
 `Python` `Tkinter` `CSV` `Analytics`
-
-- GST calculations
-- Sales reports
-- Real-time dashboard
 
 </td>
 <td width="50%" valign="top">
 
 ### [Janseva AI](https://github.com/Mevis-byte/janseva-ai-2)
 
-AI-powered platform connecting citizens and departments for grievance redressal.
+**Technology for better civic operations.**
+
+AI-assisted grievance processing with citizen and department workflows, status tracking, and a [live demo](https://janseva-ai-2.lovable.app).
 
 `AI` `Web` `CivicTech`
-
-- Intelligent grievance processing
-- Status tracking
-- [Live demo](https://janseva-ai-2.lovable.app)
 
 </td>
 </tr>
 </table>
 
-## Technology
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,c,typescript,javascript,html,bash,powershell,linux,docker,git,github,sqlite,arduino,figma" alt="Python, C++, C, TypeScript, JavaScript, HTML, Bash, PowerShell, Linux, Docker, Git, GitHub, SQLite, Arduino, Figma" />
-
-`Local AI` · `LLMs` · `RAG` · `Semantic Search` · `Automation` · `Cybersecurity`
-
-</div>
-
-## Currently learning and building
-
-| Area | Focus |
-| --- | --- |
-| **AI systems** | Local LLM orchestration, RAG, and agent architectures |
-| **Security** | OSINT, CTFs, secure coding, and infrastructure security |
-| **Linux** | Networking, system administration, and internals |
-| **DevOps** | Automation, CI/CD, containers, and infrastructure as code |
-
-## GitHub activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mevis-byte&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true" alt="Mevis's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mevis-byte&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Mevis's most used languages" />
-
-<img src="https://streak-stats.demolab.com/?user=Mevis-byte&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-</div>
-
-## A little more about me
+## `/capabilities`
 
 ```text
-$ whoami
-Mevis Lobo — computer science student and builder
+AI SYSTEMS       local LLMs · RAG · semantic search · agent workflows
+PRODUCT          full-stack applications · rapid prototyping · UX-minded engineering
+INFRASTRUCTURE   Linux · Docker · automation · CI/CD · developer tooling
+SECURITY         OSINT · secure coding · system hardening · CTF research
+LANGUAGES        Python · TypeScript · JavaScript · C++ · C · Bash
+```
 
-$ mission
-Create intelligent systems that solve real problems.
+## `/now`
 
-$ interests
-AI · security · Linux · developer experience · open source
+| Signal | Current focus |
+| --- | --- |
+| `BUILDING` | Local AI products and developer tooling |
+| `LEARNING` | Agent architectures, MLOps, Linux, and infrastructure security |
+| `EXPLORING` | How small, focused products can create outsized impact |
+| `LOOKING_FOR` | Interesting collaborators, difficult problems, and useful ideas |
 
-$ status
-Always learning. Always building.
+## `/telemetry`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mevis-byte&show_icons=true&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=00D9FF&icon_color=FF3366&text_color=CBD5E1&include_all_commits=true" alt="Mevis's GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mevis-byte&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=00D9FF&text_color=CBD5E1&langs_count=8" alt="Mevis's most used languages" />
+
+<img src="https://streak-stats.demolab.com/?user=Mevis-byte&theme=dark&hide_border=true&background=0D1117&ring=FF3366&fire=FF3366&currStreakLabel=00D9FF&sideLabels=CBD5E1" alt="GitHub streak" />
+
+</div>
+
+## `/connect`
+
+```bash
+$ git clone https://github.com/Mevis-byte
+$ echo "open to ambitious ideas"
+open to ambitious ideas
 ```
 
 <div align="center">
 
-[![Profile views](https://komarev.com/ghpvc/?username=Mevis-byte&color=2563EB&style=flat-square&label=Profile+views)](https://github.com/Mevis-byte)
+[![Profile views](https://komarev.com/ghpvc/?username=Mevis-byte&color=00D9FF&style=flat-square&label=SYSTEM+VISITS)](https://github.com/Mevis-byte)
 
-**Open to interesting collaborations and ambitious software projects.**
+**Think clearly. Build boldly. Ship useful things.**
 
 </div>
