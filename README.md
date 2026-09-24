@@ -1,5 +1,22 @@
 <div align="center">
 
+```bash
+$ whoami
+Mevis Lobo
+$ role
+AI Systems Developer / Full-Stack Engineer
+$ focus
+AI • Security • Linux • Developer Tooling
+$ status
+Always learning. Always building.
+```
+
+</div>
+
+---
+
+<div align="center">
+
 # Mevis Lobo
 
 **AI Systems Developer · Full-Stack Engineer · Security Enthusiast**
