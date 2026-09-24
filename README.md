@@ -1,44 +1,42 @@
 <a href="https://github.com/Mevis-byte">
-  <svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Mevis Byte terminal banner">
+  <svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Mevis Lobo profile header">
     <defs>
-      <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="260" gradientUnits="userSpaceOnUse">
-        <stop stop-color="#060A12"/>
-        <stop offset="0.5" stop-color="#0B1220"/>
-        <stop offset="1" stop-color="#0A0F1B"/>
+      <linearGradient id="background" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#07111F"/>
+        <stop offset="0.55" stop-color="#101A33"/>
+        <stop offset="1" stop-color="#24102F"/>
       </linearGradient>
-      <linearGradient id="line" x1="0" y1="0" x2="520" y2="0" gradientUnits="userSpaceOnUse">
-        <stop stop-color="#00D9FF"/>
-        <stop offset="0.5" stop-color="#7C3AED"/>
-        <stop offset="1" stop-color="#FF3366"/>
+      <linearGradient id="accent" x1="80" y1="60" x2="1080" y2="240" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#22D3EE"/>
+        <stop offset="0.52" stop-color="#818CF8"/>
+        <stop offset="1" stop-color="#F472B6"/>
       </linearGradient>
+      <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1010 45) rotate(135) scale(360 360)">
+        <stop stop-color="#A78BFA" stop-opacity="0.32"/>
+        <stop offset="1" stop-color="#A78BFA" stop-opacity="0"/>
+      </radialGradient>
+      <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+        <path d="M32 0H0V32" stroke="#94A3B8" stroke-opacity="0.08"/>
+      </pattern>
     </defs>
 
-    <rect width="1200" height="260" rx="26" fill="url(#bg)"/>
-    <rect x="28" y="22" width="1144" height="216" rx="18" fill="#0C1320" stroke="#1E293B"/>
+    <rect width="1200" height="300" rx="28" fill="url(#background)"/>
+    <rect width="1200" height="300" rx="28" fill="url(#glow)"/>
+    <rect x="1" y="1" width="1198" height="298" rx="27" fill="url(#grid)" stroke="#334155"/>
 
-    <g opacity="0.9">
-      <circle cx="60" cy="50" r="7" fill="#FF5F56"/>
-      <circle cx="86" cy="50" r="7" fill="#FFBD2E"/>
-      <circle cx="112" cy="50" r="7" fill="#27C93F"/>
-    </g>
+    <circle cx="1010" cy="92" r="92" stroke="url(#accent)" stroke-opacity="0.35" stroke-width="2"/>
+    <circle cx="1010" cy="92" r="62" stroke="#67E8F9" stroke-opacity="0.24" stroke-width="2"/>
+    <path d="M864 234C922 181 987 166 1060 177C1100 183 1130 174 1162 148" stroke="url(#accent)" stroke-width="3" stroke-linecap="round" opacity="0.85"/>
+    <path d="M892 252C960 211 1026 211 1094 223C1120 228 1143 224 1168 211" stroke="#C4B5FD" stroke-opacity="0.35" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="1010" cy="92" r="8" fill="#67E8F9"/>
+    <circle cx="1010" cy="92" r="18" stroke="#67E8F9" stroke-opacity="0.35"/>
 
-    <rect x="48" y="86" width="1104" height="108" rx="12" fill="#081018" stroke="#17212F"/>
-    <rect x="48" y="86" width="532" height="4" fill="url(#line)" opacity="0.9"/>
-
-    <g font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" fill="#E2E8F0">
-      <text x="72" y="118" font-size="22" fill="#7DD3FC">$ whoami</text>
-      <text x="72" y="150" font-size="40" font-weight="700" fill="#F8FAFC">MEVIS-BYTE</text>
-      <text x="72" y="177" font-size="20" letter-spacing="1.5" fill="#94A3B8">AI SYSTEMS // DEV TOOLING // SECURITY</text>
-      <text x="72" y="206" font-size="18" fill="#67E8F9">git clone https://github.com/Mevis-byte</text>
-    </g>
-
-    <g>
-      <rect x="812" y="104" width="286" height="62" rx="12" fill="#0B1624" stroke="#1F2937"/>
-      <text x="842" y="128" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15" fill="#7DD3FC">status</text>
-      <text x="842" y="154" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="22" font-weight="700" fill="#F8FAFC">BUILDING</text>
-
-      <rect x="812" y="178" width="286" height="42" rx="10" fill="#101B2D" stroke="#1F2937"/>
-      <text x="842" y="205" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="16" fill="#A5F3FC">local-first AI • secure systems</text>
+    <g font-family="Inter, Arial, sans-serif">
+      <text x="82" y="88" font-size="16" font-weight="700" letter-spacing="4" fill="#67E8F9">HELLO, I'M</text>
+      <text x="78" y="155" font-size="58" font-weight="800" letter-spacing="-2" fill="#F8FAFC">MEVIS LOBO</text>
+      <rect x="82" y="178" width="430" height="4" rx="2" fill="url(#accent)"/>
+      <text x="82" y="218" font-size="21" font-weight="500" fill="#CBD5E1">Building thoughtful software with purpose.</text>
+      <text x="82" y="252" font-size="15" letter-spacing="1.5" fill="#94A3B8">AI SYSTEMS  •  DEVELOPER TOOLS  •  SECURE PRODUCTS</text>
     </g>
   </svg>
 </a>
@@ -163,8 +161,8 @@ LANGUAGES        Python · TypeScript · JavaScript · C++ · C · Bash
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mevis-byte&show_icons=true&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=00D9FF&icon_color=FF3366&text_color=CBD5E1&include_all_commits=true" alt="Mevis's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mevis-byte&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=00D9FF&text_color=CBD5E1&langs_count=8" alt="Mevis's most used languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mevis-byte&show_icons=true&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=00D9FF&icon_color=FF3366&text_color=CBD5E1" alt="Mevis's GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mevis-byte&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=00D9FF&text_color=CBD5E1" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com/?user=Mevis-byte&theme=dark&hide_border=true&background=0D1117&ring=FF3366&fire=FF3366&currStreakLabel=00D9FF&sideLabels=CBD5E1" alt="GitHub streak" />
 
