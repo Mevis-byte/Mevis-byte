@@ -20,26 +20,6 @@
       </pattern>
     </defs>
 
-    <rect width="1200" height="300" rx="28" fill="url(#background)"/>
-    <rect width="1200" height="300" rx="28" fill="url(#glow)"/>
-    <rect x="1" y="1" width="1198" height="298" rx="27" fill="url(#grid)" stroke="#334155"/>
-
-    <circle cx="1010" cy="92" r="92" stroke="url(#accent)" stroke-opacity="0.35" stroke-width="2"/>
-    <circle cx="1010" cy="92" r="62" stroke="#67E8F9" stroke-opacity="0.24" stroke-width="2"/>
-    <path d="M864 234C922 181 987 166 1060 177C1100 183 1130 174 1162 148" stroke="url(#accent)" stroke-width="3" stroke-linecap="round" opacity="0.85"/>
-    <path d="M892 252C960 211 1026 211 1094 223C1120 228 1143 224 1168 211" stroke="#C4B5FD" stroke-opacity="0.35" stroke-width="2" stroke-linecap="round"/>
-    <circle cx="1010" cy="92" r="8" fill="#67E8F9"/>
-    <circle cx="1010" cy="92" r="18" stroke="#67E8F9" stroke-opacity="0.35"/>
-
-    <g font-family="Inter, Arial, sans-serif">
-      <text x="82" y="88" font-size="16" font-weight="700" letter-spacing="4" fill="#67E8F9">HELLO, I'M</text>
-      <text x="78" y="155" font-size="58" font-weight="800" letter-spacing="-2" fill="#F8FAFC">MEVIS LOBO</text>
-      <rect x="82" y="178" width="430" height="4" rx="2" fill="url(#accent)"/>
-      <text x="82" y="218" font-size="21" font-weight="500" fill="#CBD5E1">Building thoughtful software with purpose.</text>
-      <text x="82" y="252" font-size="15" letter-spacing="1.5" fill="#94A3B8">AI SYSTEMS  •  DEVELOPER TOOLS  •  SECURE PRODUCTS</text>
-    </g>
-  </svg>
-</a>
 
 <div align="center">
 
